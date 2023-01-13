@@ -4,3 +4,4 @@ row 2 Hello from cloned project first project
 row 3 local from cloned project
 row 4 time for test Time for lunch
 row 5 local
+:)
