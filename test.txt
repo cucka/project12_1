@@ -1,6 +1,6 @@
 I am file :) :) :) :) :)
 row 1 Hello, I am master local branch
 row 2
-row 3
+row 3 local from cloned project
 row 4
 row 5
